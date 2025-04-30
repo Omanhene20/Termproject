@@ -16,7 +16,3 @@ This is the Alpha version of our paddle-ball game project. It includes the core 
 - Game state is encapsulated in a single `Game` class
 - Composition used to structure the application (no inheritance)
 
-## Next Steps for Beta
-- Add sound effects and visual polish
-- Implement UI elements like restart button or difficulty settings
-- Handle edge cases and improve performance
